@@ -59,7 +59,7 @@
     "@pnpm/find-workspace-packages": "^5.0.40",
     "@pnpm/logger": "^5.0.0",
     "@types/fs-extra": "^11.0.1",
-    "@types/node": "^18.15.3",
+    "@types/node": "^25.0.0",
     "@types/prettier": "^2.7.2",
     "camelcase": "^7.0.1",
     "chalk": "^5.2.0",
