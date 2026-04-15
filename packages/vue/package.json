@@ -64,7 +64,7 @@
     "camelcase": "^7.0.1",
     "chalk": "^5.2.0",
     "consola": "^2.15.3",
-    "esbuild": "^0.17.11",
+    "esbuild": "^0.28.0",
     "esbuild-plugin-globals": "^0.2.0",
     "eurus-icons-svg": "workspace:*",
     "fast-glob": "^3.2.12",
